@@ -65,31 +65,6 @@ The project utilizes supervised learning techniques for regression:
 
 ---
 
-## 💡 Key Impact
-
-### 📌 Real-World Value:
-
-* Helps **buyers** estimate fair property prices
-* Assists **sellers** in setting competitive pricing
-* Useful for **real estate analysts** for market trend evaluation
-
-### 📌 Technical Value:
-
-* Demonstrates end-to-end ML pipeline
-* Strong application of regression models
-* Real-world dataset handling and feature engineering
-
----
-
-## 🚀 Future Scope
-
-* Deploy model using **Streamlit Web App**
-* Integrate real-time property datasets
-* Apply advanced models (XGBoost, Gradient Boosting)
-* Hyperparameter tuning for improved accuracy
-
----
-
 ## 🧠 Conclusion
 
 This project successfully demonstrates how machine learning can be applied to solve real-world pricing problems in the real estate domain. By leveraging structured data and regression models, it provides a scalable and data-driven solution for estimating house prices with high reliability.
